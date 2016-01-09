@@ -182,7 +182,7 @@
   "markdown.comments.formatting-help": "Aide au formatage",
   "markdown.emphasis.example.1": "Emphase faible (italique) avec des *astérisques* ou des _tirets bas_.",
   "markdown.emphasis.example.2": "Emphase forte (gras) avec des **astérisques** ou des __tirets bas__.",
-  "markdown.emphasis.example.3": "Emphases combinées avec des **astérisques** et des _tirets bas_**.",
+  "markdown.emphasis.example.3": "Emphases combinées avec des **astérisques et des _tirets bas_**.",
   "markdown.linebreaks.example.1": "Voici une ligne pour commencer.\n",
   "markdown.linebreaks.example.2": "Voici une seconde ligne.\n\n",
   "markdown.linebreaks.example.3": "Voici un paragraphe.\n\n\n\n",
