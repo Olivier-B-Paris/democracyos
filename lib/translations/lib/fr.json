@@ -198,7 +198,7 @@
   "markdown.url-autolinking.example2": "[Visitez Exemple.com !](http://www.exemple.com)",
   "markdown.url-autolinking.text": "DemocracyOS créera automatiquement un lien si une URL valide est insérée directement dans le texte.",
   "markdown.url-autolinking.text.2": "Vous pouvez aussi créer un lien, en encadrant le texte du lien par des crochets ( [ ] ), puis en encadrant le lien par des parenthèses ( ( ) ).",
-  "markdown.url-autolinking.text.3": "Par exemple, pour créer un lien vers http://www.exemple.com avec le texte "Visitez Exemple.com!", écrivez :",
+  "markdown.url-autolinking.text.3": "Par exemple, pour créer un lien vers http://www.exemple.com avec le texte Visitez Exemple.com!, écrivez :",
   "markdown.url-autolinking.title": "Lien",
   "markdown.will.become": "Deviendra ,",
   "newsfeed.button.load-more": "Voir la suite",
